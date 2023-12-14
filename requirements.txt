@@ -1,0 +1,4 @@
+opencv-python-headless
+camelot-py
+streamlit
+altair<5
